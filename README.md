@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="docs/github.png" alt="Meta Risk Core Banner" width="800"/>
+  <img src="/github.png" alt="Meta Risk Core Banner" width="800"/>
 </p>
 
 # 🧠 Meta Risk Core (MRC AI)
