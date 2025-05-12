@@ -110,4 +110,4 @@ Not financial advice. Just pure alpha.
 
 ---
 
-> Follow [@MetaRiskCore](https://twitter.com/metariskcore) — the AI sees trends before they pump.
+> Follow [@MetaRiskCore](https://twitter.com/INFINITYAI_MRC) — the AI sees trends before they pump.
