@@ -53,11 +53,11 @@ plt.bar(tokens, scores, color='green', label='AI Score')
 plt.plot(tokens, risks, color='red', marker='o', label='Rug Risk')
 plt.title("Token AI Scores vs Rug Risk")
 plt.legend()
-plt.savefig("docs/ai_vs_risk.png")
+plt.savefig("/ai_vs_risk.png")
 ```
 
 <p align="center">
-  <img src="docs/ai_vs_risk.png" alt="AI vs Risk Chart" width="600"/>
+  <img src="/ai_vs_risk.png" alt="AI vs Risk Chart" width="600"/>
 </p>
 
 ---
